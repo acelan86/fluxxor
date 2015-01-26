@@ -1,7 +1,7 @@
 {
   "name": "fluxxor",
   "version": "1.5.1",
-  "main": "build/fluxxor.min.js",
+  "main": "build/fluxxor.js",
   "description": "Flux architecture tools for React",
   "homepage": "",
   "authors": [
